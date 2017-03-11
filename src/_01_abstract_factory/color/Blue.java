@@ -1,6 +1,6 @@
-package abstract_factory.color;
+package _01_abstract_factory.color;
 
-import abstract_factory.color.definition.Color;
+import _01_abstract_factory.color.definition.Color;
 
 /**
  * Created by mateuszbratkowski on 11/03/2017.

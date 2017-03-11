@@ -1,9 +1,9 @@
-package abstract_factory;
+package _01_abstract_factory;
 
-import abstract_factory.color.definition.Color;
-import abstract_factory.shape.Circle;
-import abstract_factory.shape.Square;
-import abstract_factory.shape.definition.Shape;
+import _01_abstract_factory.color.definition.Color;
+import _01_abstract_factory.shape.Circle;
+import _01_abstract_factory.shape.Square;
+import _01_abstract_factory.shape.definition.Shape;
 
 /**
  * Created by mateuszbratkowski on 11/03/2017.

@@ -1,10 +1,10 @@
-package abstract_factory;
+package _01_abstract_factory;
 
-import abstract_factory.color.Blue;
-import abstract_factory.color.Green;
-import abstract_factory.color.Red;
-import abstract_factory.color.definition.Color;
-import abstract_factory.shape.definition.Shape;
+import _01_abstract_factory.color.Blue;
+import _01_abstract_factory.color.Green;
+import _01_abstract_factory.color.Red;
+import _01_abstract_factory.color.definition.Color;
+import _01_abstract_factory.shape.definition.Shape;
 
 /**
  * Created by mateuszbratkowski on 11/03/2017.
